@@ -34,6 +34,12 @@
         "link": "https://github.com/kamranahmedse/developer-roadmap",
         "title": "Developer Roadmap 👣",
         "details": "Charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops."
+      },
+      {
+        "linkId": 7,
+        "link": "https://github.com/kamranahmedse/developer-roadmap",
+        "title": "Testing 👣",
+        "details": "Link is added from Github"
       }
    
 ]
