@@ -1,0 +1,39 @@
+[
+    {
+      "linkId": 1,
+      "link": "https://mrsid.me",
+      "title": "My Portfolio🕸️",
+      "details": "Haven't launched the website yet. But still you can visit.<br>Coming Soon...🚘"
+    },
+    {
+        "linkId": 2,
+        "link": "https://github.com/jwasham/coding-interview-university",
+        "title": "Coding Interview 🖥️",
+        "details": "A complete computer science study plan to become a software engineer."
+      },
+      {
+        "linkId": 3,
+        "link": "https://codepen.io/mrsid",
+        "title": "Codepen 📝",
+        "details": "Simple elements made using Html, CSS and JS only."
+      },
+     {
+       "linkId": 4,
+       "link": "https://www.github.com/mrsidverse",
+       "title": "GitHub 🐈",
+       "details": "You can grab the source codes of posts from my github account."
+     },
+     {
+        "linkId": 5,
+        "link": "https://www.webhostingsecretrevealed.net/blog/web-tools/40-must-see-free-web-design-tools/",
+        "title": "Free Tools 🎨",
+        "details": "ome amazing free tools for Webdevelopers and Designers."
+      },
+      {
+        "linkId": 6,
+        "link": "https://github.com/kamranahmedse/developer-roadmap",
+        "title": "Developer Roadmap 👣",
+        "details": "Charts demonstrating the paths that you can take and the technologies that you would want to adopt in order to become a frontend, backend or a devops."
+      }
+   
+]
